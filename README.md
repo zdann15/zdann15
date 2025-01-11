@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+My name is Daniel and I'm a Computer Science student at the University of Waterloo. I'm an aspiring full-stack developer
 
 <!--
 **zdann15/zdann15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
