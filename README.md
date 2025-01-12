@@ -1,18 +1,15 @@
-## About me
+## About Me 👋
 
-My name is Daniel and I'm a Computer Science student at the University of Waterloo. I'm an aspiring full-stack developer
+Hey there! My name is Daniel, and I'm a Computer Science student at the University of Waterloo. I'm a full-stack developer, and I'm eager to build innovative and creative tech solutions that allow me to continuously expand my skillset.
 
-<!--
-**zdann15/zdann15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 My current work
 
-Here are some ideas to get you started:
+I'm working on [Finlyze](https://github.com/starlyze/finlyze), a wealth management app that enables users to track all their finances in one place. I'm also developing [StarDuo](https://github.com/starlyze/starduo), a mobile app that allows friends to commemorate their time together and share their daily experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm learning ...
+
+I'm interested in learning about artificial intelligence and neural networks, and I have been doing some reading into these topics lately.
+
+## ⚡ Fun facts about me
+
+I love playing badminton and I was a competitive athlete at the national level! I also enjoy learning new languages, and I've recently been learning Japanese on a self-directed basis as my fourth language after English, French and Mandarin. 
